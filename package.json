@@ -1,0 +1,27 @@
+{
+  "name": "db-tools",
+  "version": "1.0.0",
+  "description": "Database tools for node.js",
+  "keywords": [
+    "db",
+    "tools",
+    "mariadb",
+    "node.js"
+  ],
+  "homepage": "https://github.com/jawdat-samer/db-tools#readme",
+  "bugs": {
+    "url": "https://github.com/jawdat-samer/db-tools/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawdat-samer/db-tools.git"
+  },
+  "license": "MIT",
+  "author": "Jawdat Samer",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "mysql2": "^3.24.6",
+    "sql-template-strings": "^2.2.2"
+  }
+}
